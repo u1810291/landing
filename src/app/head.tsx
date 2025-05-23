@@ -1,11 +1,11 @@
 export default function Head() {
   return (
     <>
-      <title>
-      Play Next.js - SaaS Starter Kit and Boilerplate for Next.js
-      </title>
+      <title>FajrSoft</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <meta name="description" content="This SaaS Boilerplate and Starter Kit for Next.js is designed specifically for SaaS startups. It's a free resource complete with all the necessary integrations, pages, and components you require to build and launch a comprehensive SaaS website with robust features." />
+      <meta name="description" content="Outsourcing Software Development Company 2025 ⭐️FajrSoft⭐️ Best Outsource & Offshore Development Team & Services: ✔️ Web ✔️ Application ✔️ Software." />
+      <meta property="og:title" content="Software Development Agency | Outsourcing Development | FajrSoft" />
+      <meta property="og:description" content="Outsourcing Software Development Company 2023 ⭐️FajrSoft⭐️ Best Outsource &amp; Offshore Development Team &amp; Services: ✔️ Web ✔️ Application ✔️ Software." />
       <link rel="icon" href="/images/favicon.ico" />
     </>
   );
