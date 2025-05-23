@@ -17,8 +17,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Free and Open-Source",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "AdTech",
+    paragraph: "If you need integration-ready software or a vertically integrated AdTech stack, we have the expertise to realize your vision. We can build platforms for any advertising channel, including DSP, SSP, Ad Server, and more. Our team will enhance your AdTech solutions with AI/ML, Cloud, Big Data, and high-load architecture.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -38,8 +38,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Modern Design",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Linear and OTT TV",
+    paragraph: "Our full-cycle streaming platform development services are tailored to your needs, ensuring you get a robust solution. We specialize in creating bespoke OTT TV and CTV advertising platforms, add the necessary integration layers and establish connectivity with direct, programmatic, and third-party supply and demand sources.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -91,8 +91,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "SaaS Starter Kit",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "MarTech",
+    paragraph: "Are you looking for the best MarTech company to help shape your overall product vision, implement a game-changing MarTech idea from start to finish, develop custom tools or add innovative functionalities? Count on Geomotiv – an experienced software development partner crafting and improving MarTech business solutions since 2010.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -124,8 +124,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "All Essential Integrations",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Retail Media",
+    paragraph: "Our retail media services help brands and retailers boost revenue through data-driven advertising. We specialize in programmatic ads, audience targeting, and AI-powered analytics, enabling personalized, high-impact campaigns. With expertise in retail media networks, ad monetization, and omnichannel strategies, Geomotiv maximizes customer engagement and sales.",
     btn: "Learn More",
     btnLink: "/#",
   },

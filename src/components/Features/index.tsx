@@ -8,8 +8,8 @@ const Features = () => {
       <div className="container">
         <SectionTitle
           subtitle="Features"
-          title="Main Features Of Play"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="Team up with us to stand out in your vertical"
+          paragraph="Our expertise ensures we understand the unique challenges of your industry, resulting in the production of tailored solutions that meet your requirements. Meet professional developers for AdTech and Video Streaming."
         />
 
         <div className="-mx-4 mt-12 flex flex-wrap lg:mt-20">
