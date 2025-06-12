@@ -14,7 +14,7 @@ import "../styles/index.css";
 import "../styles/prism-vsc-dark-plus.css";
 import Script from 'next/script';
 const GA_TRACKING_ID = process.env.NEXT_PUBLIC_GA_TRACKING_ID
-const YANDEX_METRICA_ID = process.env.NEXT_PUBLIC_YANDEX_METRICA_ID
+const YANDEX_TRACKING_ID = process.env.NEXT_PUBLIC_YANDEX_TRACKING_ID
 
 export default function RootLayout({
   children,
@@ -44,7 +44,7 @@ export default function RootLayout({
                       k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
               })(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
-              ym(${YANDEX_METRICA_ID}, "init", {
+              ym(${YANDEX_TRACKING_ID}, "init", {
                   clickmap:true,
                   trackLinks:true,
                   accurateTrackBounce:true,
@@ -56,7 +56,7 @@ export default function RootLayout({
         <noscript>
           <div>
             <img
-              src={`https://mc.yandex.ru/watch/${YANDEX_METRICA_ID}`}
+              src={`https://mc.yandex.ru/watch/${YANDEX_TRACKING_ID}`}
               style={{ position: 'absolute', left: '-9999px' }}
               alt=""
             />
